@@ -150,6 +150,22 @@ export default function QuienesSomos() {
                         </a>
                       </Link>
                     </div>
+
+                  </div>
+                  <div className="col-md-3 col-sm-6 col-xs-12">
+                    <div className="support-services_2 wow " >
+                      <h4 className="text-green ta-center" >
+                      Semestral 2025
+                      </h4>
+                      <a className="support-images2" href="#">
+                        <Img s="EEFF_Ganasafi2025.png" a="Gana Rendimiento" w="400px" />
+                      </a>
+                      <Link href="/productos/gana-inversiones">
+                        <a className="ab-btn left-ab-btn_2 btn-service" rel="noreferrer" target="_blank" href="\docs\EEFF_GANASAFI_JUNIO_2025.pdf">
+                          Descargar pdf
+                        </a>
+                      </Link>
+                    </div>
                   </div>
 
 
